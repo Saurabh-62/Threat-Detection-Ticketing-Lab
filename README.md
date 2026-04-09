@@ -1,4 +1,4 @@
-# Threat Detection Ticketing Lab
+# Threat Detection Ticketing Lab (Jan 2026 – Mar 2026)
 
 ## Objective
 The objective of the Threat Detection Ticketing Lab was to build a security monitoring environment in the cloud, allow public access, create custom attacks, and respond to the attacks through a ticketing system. This experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
